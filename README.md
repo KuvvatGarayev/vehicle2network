@@ -1,5 +1,5 @@
 # Description
-This is a step-by-step guide to connect the robotic vehicle (with computer such as Jetson Nano) to available network
+This is a step-by-step guide to connect the robotic vehicle (with computer such as Jetson Nano) to an available network
 
 ## Steps
 1. check the network address (ex: wlan0) on jetson nano via ifconfig on terminal
